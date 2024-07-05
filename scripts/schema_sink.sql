@@ -1,0 +1,3 @@
+CREATE DATABASE sink;
+USE sink;
+CREATE TABLE customers (id INT PRIMARY KEY, name VARCHAR(100));
